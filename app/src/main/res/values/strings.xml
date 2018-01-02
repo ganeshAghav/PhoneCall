@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PhoneCall</string>
+    <string name="callDetection">0</string>
+</resources>
